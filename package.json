@@ -1,0 +1,21 @@
+{
+  "name": "prep",
+  "version": "1.0.0",
+  "description": "Preperation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shovon1992/Prep.git"
+  },
+  "author": "Shovon Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shovon1992/Prep/issues"
+  },
+  "homepage": "https://github.com/Shovon1992/Prep#readme"
+ 
+}
